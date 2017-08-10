@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../FirstProject/.idea/FirstProject.iml" filepath="$PROJECT_DIR$/../../FirstProject/.idea/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MovieWebsite/.idea/MovieWebsite.iml" filepath="$PROJECT_DIR$/../MovieWebsite/.idea/MovieWebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SecretMessage.iml" filepath="$PROJECT_DIR$/.idea/SecretMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TakeaBreak/.idea/Takeabreak.iml" filepath="$PROJECT_DIR$/../TakeaBreak/.idea/Takeabreak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Udacity.iml" filepath="$PROJECT_DIR$/../.idea/Udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Udacity_TechnicalInterview/.idea/Udacity_TechnicalInterview.iml" filepath="$PROJECT_DIR$/../../Udacity_TechnicalInterview/.idea/Udacity_TechnicalInterview.iml" />
+    </modules>
+  </component>
+</project>
