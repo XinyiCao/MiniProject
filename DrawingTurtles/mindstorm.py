@@ -9,7 +9,7 @@ from tkinter import *
 import time
 
 mixer.init()
-mixer.music.load("/Users/CAO/Pythonia/Udacity_PythonFundamental/DrawingTurtles/material/SummerFirework.mp3")
+mixer.music.load("/Users/CAO/Pythonia/MiniProjects/DrawingTurtles/material/SummerFirework.mp3")
 mixer.music.set_volume(0.4)
 mixer.music.play()
 # song = mixer.Sound("/Users/CAO/Desktop/SummerFirework.mp3")

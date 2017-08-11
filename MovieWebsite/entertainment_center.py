@@ -35,9 +35,14 @@ print(minion.storyline)
 flower = media.Movie("Time-Lapse photography: A Garden Come to Life",
                      "A blooming garden of dancing flowers in this incredible four-minute short film.",
                      "https://www.colorblends.com/img/media/prime/product/1010_Amazon_CGC2218q.jpg",
-                     "https://www.youtube.com/watch?v=m6Uw2DJ9Md8")
+                     "htt"
+                     "ps://www.youtube.com/watch?v=m6Uw2DJ9Md8")
 print(flower.storyline)
 
 movies = [dunkirk, wolf_warrior, spider_man, wonder_woman, minion, flower]
 
-fresh_tomatoes.open_movies_page(movies)
+# fresh_tomatoes.open_movies_page(movies)
+# print(media.Movie.VALID_RATINGS)
+print(media.Movie.__doc__)
+print(media.Movie.__name__)
+print(media.Movie.__module__)

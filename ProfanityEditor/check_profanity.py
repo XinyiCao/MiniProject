@@ -2,13 +2,13 @@ import urllib.request
 
 
 def read_text():
-    quotes = open("/Users/CAO/Pythonia/Udacity_PythonFundamental/ProfanityEditor/movie_quotes.txt")
+    quotes = open("/Users/CAO/Pythonia/MiniProjects/ProfanityEditor/movie_quotes.txt")
     contents_of_file = quotes.read()
     print(contents_of_file)
     quotes.close()
 
 def accumulate_text():
-    with open("/Users/CAO/Pythonia/Udacity_PythonFundamental/ProfanityEditor/movie_quotes.txt",
+    with open("/Users/CAO/Pythonia/MiniProjects/ProfanityEditor/movie_quotes.txt",
             "r") as f:
         accumulate = ""
         for line in f:
