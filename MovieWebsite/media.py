@@ -6,6 +6,7 @@ chrome_path = "open -a /Applications/Google\ Chrome.app %s"
 
 class Video():
     def __init__(self, title, duration):
+        pass
 
 
 class Movie(Video):
@@ -26,6 +27,8 @@ class Movie(Video):
 
 class TvShow(Video):
     def __init__(self, senson, episode, tv_station):
+        pass
 
 
     def get_list(self):
+        pass
